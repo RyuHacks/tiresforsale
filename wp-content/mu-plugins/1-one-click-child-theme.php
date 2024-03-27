@@ -1,0 +1,1 @@
+<?php require_once __DIR__ . "/one-click-child-theme-main/one-click-child-theme.php";
